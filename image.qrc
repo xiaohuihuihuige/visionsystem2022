@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/checkbox.png</file>
+        <file>image/dropdownbutton.png</file>
+        <file>image/NG.png</file>
+        <file>image/OK.png</file>
+        <file>image/QU.png</file>
+        <file>image/RN.png</file>
+        <file>image/logo6.png</file>
+        <file>image/sequence_animate.png</file>
+        <file>image/black.qss</file>
+        <file>image/blackorange.qss</file>
+        <file>image/white.qss</file>
+        <file>image/default.qss</file>
+        <file>image/MacOS.qss</file>
+        <file>image/Ubuntu.qss</file>
+    </qresource>
+</RCC>
